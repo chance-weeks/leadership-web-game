@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 0,
+    "prompt": "You notice a teammate being left out of project decisions",
+    "choices": [
+      {
+        "text": "You opt to demonstrate inspiration by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 18,
+        "nextId": 1
+      },
+      {
+        "text": "You take action by show control-freak by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 1
+      },
+      {
+        "text": "You opt to show blame shifting by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "prompt": "You're offered an easy shortcut that would avoid work",
+    "choices": [
+      {
+        "text": "You opt to demonstrate confidence by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Confidence",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 2
+      },
+      {
+        "text": "You choose to show control-freak by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 2
+      },
+      {
+        "text": "You choose to show selfishness by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "prompt": "A friend asks for help with a project you're not passionate about",
+    "choices": [
+      {
+        "text": "You decide to demonstrate humility by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 3
+      },
+      {
+        "text": "You handle it by show secrecy by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 3
+      },
+      {
+        "text": "You opt to demonstrate decisiveness by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Decisiveness",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "prompt": "You disagree with your group leader but fear sounding disrespectful",
+    "choices": [
+      {
+        "text": "You opt to demonstrate listening by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 4
+      },
+      {
+        "text": "You take action by show impatience by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 4
+      },
+      {
+        "text": "You handle it by demonstrate listening by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "prompt": "A peer submits work that affects your group's performance",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate collaboration by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 31,
+        "nextId": 5
+      },
+      {
+        "text": "You opt to show overconfidence by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 5
+      },
+      {
+        "text": "You choose to demonstrate transparency by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "prompt": "You're tasked with organizing a small community event",
+    "choices": [
+      {
+        "text": "You opt to demonstrate empathy by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 6
+      },
+      {
+        "text": "You choose to show dismissiveness by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 6
+      },
+      {
+        "text": "You handle it by demonstrate patience by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "prompt": "A classmate spreads misinformation about you",
+    "choices": [
+      {
+        "text": "You respond by demonstrate respect by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 15,
+        "nextId": 7
+      },
+      {
+        "text": "You choose to show blame shifting by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 7
+      },
+      {
+        "text": "You opt to demonstrate humility by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "prompt": "You're given credit for something your teammate did",
+    "choices": [
+      {
+        "text": "You choose to demonstrate inspiration by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 17,
+        "nextId": 8
+      },
+      {
+        "text": "You opt to show insecurity by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Insecurity",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 8
+      },
+      {
+        "text": "You decide to show indecisiveness by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 8
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "prompt": "You feel your ideas are being ignored in meetings",
+    "choices": [
+      {
+        "text": "You opt to demonstrate humility by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 9
+      },
+      {
+        "text": "You choose to show argumentative by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 9
+      },
+      {
+        "text": "You opt to show arrogance by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 9
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "prompt": "A new colleague seems overwhelmed and hesitant to speak up",
+    "choices": [
+      {
+        "text": "You choose to demonstrate empathy by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 10
+      },
+      {
+        "text": "You opt to show dishonesty by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 10
+      },
+      {
+        "text": "You take action by show lack of empathy by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "prompt": "Someone close to you behaves unethically in a group setting",
+    "choices": [
+      {
+        "text": "You respond by demonstrate creativity by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 11
+      },
+      {
+        "text": "You decide to show overconfidence by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 11
+      },
+      {
+        "text": "You decide to show short-sightedness by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 11
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "prompt": "You miss a key deadline that impacts the team",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate emotional intelligence by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 12
+      },
+      {
+        "text": "You handle it by show manipulativeness by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 12
+      },
+      {
+        "text": "You respond by demonstrate vision by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 15,
+        "nextId": 12
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "prompt": "You're asked to lead a group with someone you dislike",
+    "choices": [
+      {
+        "text": "You decide to demonstrate vision by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 12,
+        "nextId": 13
+      },
+      {
+        "text": "You decide to show secrecy by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 13
+      },
+      {
+        "text": "You decide to demonstrate resilience by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 13
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "prompt": "You're late but someone needs your help urgently",
+    "choices": [
+      {
+        "text": "You decide to demonstrate trustworthiness by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 14
+      },
+      {
+        "text": "You handle it by show unreliability by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 14
+      },
+      {
+        "text": "You take action by demonstrate emotional intelligence by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 14
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "prompt": "You notice bias during a team discussion",
+    "choices": [
+      {
+        "text": "You take action by demonstrate respect by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 12,
+        "nextId": 15
+      },
+      {
+        "text": "You take action by show impatience by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 15
+      },
+      {
+        "text": "You choose to demonstrate confidence by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Confidence",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 15
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "prompt": "You're pressured to stay quiet about an unfair rule",
+    "choices": [
+      {
+        "text": "You opt to demonstrate vision by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 19,
+        "nextId": 16
+      },
+      {
+        "text": "You opt to show secrecy by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 16
+      },
+      {
+        "text": "You choose to demonstrate resilience by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 27,
+        "nextId": 16
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "prompt": "You're put on the spot to solve a group disagreement",
+    "choices": [
+      {
+        "text": "You decide to demonstrate integrity by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 32,
+        "nextId": 17
+      },
+      {
+        "text": "You opt to show rigidity by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -27,
+        "nextId": 17
+      },
+      {
+        "text": "You handle it by demonstrate listening by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 10,
+        "nextId": 17
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "prompt": "You're asked to give honest feedback to a friend",
+    "choices": [
+      {
+        "text": "You take action by demonstrate emotional intelligence by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 18
+      },
+      {
+        "text": "You take action by show overconfidence by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 18
+      },
+      {
+        "text": "You handle it by demonstrate empathy by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 31,
+        "nextId": 18
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "prompt": "Your boss rejects your ideas without reason",
+    "choices": [
+      {
+        "text": "You respond by demonstrate inspiration by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 26,
+        "nextId": 19
+      },
+      {
+        "text": "You take action by show dismissiveness by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -18,
+        "nextId": 19
+      },
+      {
+        "text": "You handle it by demonstrate integrity by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 19
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "prompt": "Your club or team fails a challenge",
+    "choices": [
+      {
+        "text": "You choose to demonstrate creativity by addressing the fact that your club or team fails a challenge.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 26,
+        "nextId": 20
+      },
+      {
+        "text": "You respond by show control-freak by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 20
+      },
+      {
+        "text": "You take action by demonstrate emotional intelligence by addressing the fact that your club or team fails a challenge.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 20
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "prompt": "You notice a teammate being left out of project decisions",
+    "choices": [
+      {
+        "text": "You respond by demonstrate creativity by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 21
+      },
+      {
+        "text": "You decide to show neglect by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 21
+      },
+      {
+        "text": "You choose to demonstrate humility by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 21
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "prompt": "You're offered an easy shortcut that would avoid work",
+    "choices": [
+      {
+        "text": "You respond by demonstrate resilience by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 22
+      },
+      {
+        "text": "You choose to show rigidity by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 22
+      },
+      {
+        "text": "You decide to show blame shifting by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 22
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "prompt": "A friend asks for help with a project you're not passionate about",
+    "choices": [
+      {
+        "text": "You decide to demonstrate humility by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 23
+      },
+      {
+        "text": "You handle it by show arrogance by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 23
+      },
+      {
+        "text": "You choose to show blame shifting by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 23
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "prompt": "You disagree with your group leader but fear sounding disrespectful",
+    "choices": [
+      {
+        "text": "You opt to demonstrate trustworthiness by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 17,
+        "nextId": 24
+      },
+      {
+        "text": "You handle it by show argumentative by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 24
+      },
+      {
+        "text": "You handle it by show selfishness by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 24
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "prompt": "A peer submits work that affects your group's performance",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate decisiveness by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Decisiveness",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 25
+      },
+      {
+        "text": "You handle it by show selfishness by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 25
+      },
+      {
+        "text": "You respond by demonstrate creativity by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 25
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "prompt": "You're tasked with organizing a small community event",
+    "choices": [
+      {
+        "text": "You choose to demonstrate gratitude by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 10,
+        "nextId": 26
+      },
+      {
+        "text": "You decide to show blame shifting by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 26
+      },
+      {
+        "text": "You respond by demonstrate collaboration by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 19,
+        "nextId": 26
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "prompt": "A classmate spreads misinformation about you",
+    "choices": [
+      {
+        "text": "You choose to demonstrate vision by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 32,
+        "nextId": 27
+      },
+      {
+        "text": "You respond by show argumentative by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 27
+      },
+      {
+        "text": "You choose to show impatience by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 27
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "prompt": "You're given credit for something your teammate did",
+    "choices": [
+      {
+        "text": "You choose to demonstrate integrity by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 27,
+        "nextId": 28
+      },
+      {
+        "text": "You take action by show micromanagement by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Micromanagement",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 28
+      },
+      {
+        "text": "You respond by show dishonesty by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 28
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "prompt": "You feel your ideas are being ignored in meetings",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate inspiration by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 29
+      },
+      {
+        "text": "You choose to show overconfidence by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 29
+      },
+      {
+        "text": "You respond by demonstrate collaboration by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 29
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "prompt": "A new colleague seems overwhelmed and hesitant to speak up",
+    "choices": [
+      {
+        "text": "You decide to demonstrate empathy by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 30
+      },
+      {
+        "text": "You choose to show indecisiveness by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -27,
+        "nextId": 30
+      },
+      {
+        "text": "You respond by demonstrate trustworthiness by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 10,
+        "nextId": 30
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "prompt": "Someone close to you behaves unethically in a group setting",
+    "choices": [
+      {
+        "text": "You opt to demonstrate accountability by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Accountability",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 31
+      },
+      {
+        "text": "You opt to show lack of empathy by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 31
+      },
+      {
+        "text": "You respond by demonstrate listening by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 31
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "prompt": "You miss a key deadline that impacts the team",
+    "choices": [
+      {
+        "text": "You decide to demonstrate vision by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 32
+      },
+      {
+        "text": "You opt to show dishonesty by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 32
+      },
+      {
+        "text": "You decide to show rigidity by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 32
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "prompt": "You're asked to lead a group with someone you dislike",
+    "choices": [
+      {
+        "text": "You take action by demonstrate accountability by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Accountability",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 33
+      },
+      {
+        "text": "You handle it by show dishonesty by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -27,
+        "nextId": 33
+      },
+      {
+        "text": "You decide to show dishonesty by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 33
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "prompt": "You're late but someone needs your help urgently",
+    "choices": [
+      {
+        "text": "You choose to demonstrate integrity by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 32,
+        "nextId": 34
+      },
+      {
+        "text": "You choose to show micromanagement by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Micromanagement",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 34
+      },
+      {
+        "text": "You decide to show dismissiveness by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 34
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "prompt": "You notice bias during a team discussion",
+    "choices": [
+      {
+        "text": "You decide to demonstrate creativity by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 19,
+        "nextId": 35
+      },
+      {
+        "text": "You opt to show short-sightedness by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 35
+      },
+      {
+        "text": "You choose to show selfishness by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 35
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "prompt": "You're pressured to stay quiet about an unfair rule",
+    "choices": [
+      {
+        "text": "You respond by demonstrate humility by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 14,
+        "nextId": 36
+      },
+      {
+        "text": "You respond by show indecisiveness by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -20,
+        "nextId": 36
+      },
+      {
+        "text": "You choose to show overconfidence by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 36
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "prompt": "You're put on the spot to solve a group disagreement",
+    "choices": [
+      {
+        "text": "You choose to demonstrate gratitude by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 37
+      },
+      {
+        "text": "You decide to show control-freak by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 37
+      },
+      {
+        "text": "You handle it by show argumentative by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 37
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "prompt": "You're asked to give honest feedback to a friend",
+    "choices": [
+      {
+        "text": "You opt to demonstrate humility by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 38
+      },
+      {
+        "text": "You opt to show control-freak by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 38
+      },
+      {
+        "text": "You decide to show overconfidence by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 38
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "prompt": "Your boss rejects your ideas without reason",
+    "choices": [
+      {
+        "text": "You take action by demonstrate listening by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 39
+      },
+      {
+        "text": "You respond by show unreliability by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 39
+      },
+      {
+        "text": "You choose to show favoritism by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Favoritism",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 39
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "prompt": "Your club or team fails a challenge",
+    "choices": [
+      {
+        "text": "You opt to demonstrate adaptability by addressing the fact that your club or team fails a challenge.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 40
+      },
+      {
+        "text": "You opt to show micromanagement by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Micromanagement",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 40
+      },
+      {
+        "text": "You handle it by show indecisiveness by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 40
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "prompt": "You notice a teammate being left out of project decisions",
+    "choices": [
+      {
+        "text": "You take action by demonstrate empathy by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 41
+      },
+      {
+        "text": "You take action by show secrecy by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -20,
+        "nextId": 41
+      },
+      {
+        "text": "You respond by demonstrate creativity by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 41
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "prompt": "You're offered an easy shortcut that would avoid work",
+    "choices": [
+      {
+        "text": "You opt to demonstrate respect by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 42
+      },
+      {
+        "text": "You take action by show dismissiveness by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 42
+      },
+      {
+        "text": "You respond by demonstrate trustworthiness by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 42
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "prompt": "A friend asks for help with a project you're not passionate about",
+    "choices": [
+      {
+        "text": "You opt to demonstrate creativity by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 43
+      },
+      {
+        "text": "You respond by show impatience by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 43
+      },
+      {
+        "text": "You choose to show unreliability by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -12,
+        "nextId": 43
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "prompt": "You disagree with your group leader but fear sounding disrespectful",
+    "choices": [
+      {
+        "text": "You opt to demonstrate resilience by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 44
+      },
+      {
+        "text": "You take action by show overconfidence by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 44
+      },
+      {
+        "text": "You handle it by show arrogance by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 44
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "prompt": "A peer submits work that affects your group's performance",
+    "choices": [
+      {
+        "text": "You opt to demonstrate respect by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 14,
+        "nextId": 45
+      },
+      {
+        "text": "You handle it by show insecurity by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Insecurity",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 45
+      },
+      {
+        "text": "You choose to show short-sightedness by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 45
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "prompt": "You're tasked with organizing a small community event",
+    "choices": [
+      {
+        "text": "You choose to demonstrate trustworthiness by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 46
+      },
+      {
+        "text": "You opt to show neglect by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 46
+      },
+      {
+        "text": "You choose to demonstrate transparency by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 14,
+        "nextId": 46
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "prompt": "A classmate spreads misinformation about you",
+    "choices": [
+      {
+        "text": "You opt to demonstrate empathy by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Empathy",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 47
+      },
+      {
+        "text": "You decide to show dismissiveness by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 47
+      },
+      {
+        "text": "You respond by demonstrate gratitude by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 47
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "prompt": "You're given credit for something your teammate did",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate patience by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 48
+      },
+      {
+        "text": "You opt to show rigidity by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 48
+      },
+      {
+        "text": "You take action by show dismissiveness by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 48
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "prompt": "You feel your ideas are being ignored in meetings",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate gratitude by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 49
+      },
+      {
+        "text": "You decide to show rigidity by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 49
+      },
+      {
+        "text": "You opt to demonstrate gratitude by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 49
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "prompt": "A new colleague seems overwhelmed and hesitant to speak up",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate adaptability by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 26,
+        "nextId": 50
+      },
+      {
+        "text": "You opt to show dishonesty by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 50
+      },
+      {
+        "text": "You opt to show neglect by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 50
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "prompt": "Someone close to you behaves unethically in a group setting",
+    "choices": [
+      {
+        "text": "You decide to demonstrate integrity by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 32,
+        "nextId": 51
+      },
+      {
+        "text": "You decide to show blame shifting by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -18,
+        "nextId": 51
+      },
+      {
+        "text": "You opt to show argumentative by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 51
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "prompt": "You miss a key deadline that impacts the team",
+    "choices": [
+      {
+        "text": "You decide to demonstrate trustworthiness by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 52
+      },
+      {
+        "text": "You respond by show blame shifting by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 52
+      },
+      {
+        "text": "You choose to show arrogance by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 52
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "prompt": "You're asked to lead a group with someone you dislike",
+    "choices": [
+      {
+        "text": "You decide to demonstrate transparency by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 12,
+        "nextId": 53
+      },
+      {
+        "text": "You take action by show short-sightedness by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 53
+      },
+      {
+        "text": "You respond by demonstrate inspiration by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 53
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "prompt": "You're late but someone needs your help urgently",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate gratitude by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 18,
+        "nextId": 54
+      },
+      {
+        "text": "You respond by show neglect by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 54
+      },
+      {
+        "text": "You decide to demonstrate gratitude by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 54
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "prompt": "You notice bias during a team discussion",
+    "choices": [
+      {
+        "text": "You respond by demonstrate confidence by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Confidence",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 55
+      },
+      {
+        "text": "You decide to show unreliability by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 55
+      },
+      {
+        "text": "You take action by demonstrate listening by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 55
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "prompt": "You're pressured to stay quiet about an unfair rule",
+    "choices": [
+      {
+        "text": "You choose to demonstrate integrity by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 27,
+        "nextId": 56
+      },
+      {
+        "text": "You opt to show lack of empathy by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 56
+      },
+      {
+        "text": "You take action by demonstrate humility by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 56
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "prompt": "You're put on the spot to solve a group disagreement",
+    "choices": [
+      {
+        "text": "You choose to demonstrate collaboration by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 57
+      },
+      {
+        "text": "You respond by show lack of empathy by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 57
+      },
+      {
+        "text": "You respond by demonstrate emotional intelligence by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 57
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "prompt": "You're asked to give honest feedback to a friend",
+    "choices": [
+      {
+        "text": "You decide to demonstrate decisiveness by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Decisiveness",
+        "color": "green",
+        "influenceChange": 17,
+        "nextId": 58
+      },
+      {
+        "text": "You handle it by show rigidity by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 58
+      },
+      {
+        "text": "You choose to show unreliability by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 58
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "prompt": "Your boss rejects your ideas without reason",
+    "choices": [
+      {
+        "text": "You opt to demonstrate transparency by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 31,
+        "nextId": 59
+      },
+      {
+        "text": "You respond by show unreliability by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 59
+      },
+      {
+        "text": "You decide to demonstrate transparency by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 59
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "prompt": "Your club or team fails a challenge",
+    "choices": [
+      {
+        "text": "You respond by demonstrate trustworthiness by addressing the fact that your club or team fails a challenge.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 60
+      },
+      {
+        "text": "You decide to show insecurity by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Insecurity",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 60
+      },
+      {
+        "text": "You respond by show favoritism by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Favoritism",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 60
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "prompt": "You notice a teammate being left out of project decisions",
+    "choices": [
+      {
+        "text": "You take action by demonstrate adaptability by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 61
+      },
+      {
+        "text": "You opt to show dishonesty by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 61
+      },
+      {
+        "text": "You take action by demonstrate transparency by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 21,
+        "nextId": 61
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "prompt": "You're offered an easy shortcut that would avoid work",
+    "choices": [
+      {
+        "text": "You decide to demonstrate confidence by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Confidence",
+        "color": "green",
+        "influenceChange": 19,
+        "nextId": 62
+      },
+      {
+        "text": "You respond by show unreliability by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 62
+      },
+      {
+        "text": "You take action by demonstrate patience by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 62
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "prompt": "A friend asks for help with a project you're not passionate about",
+    "choices": [
+      {
+        "text": "You respond by demonstrate transparency by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 25,
+        "nextId": 63
+      },
+      {
+        "text": "You handle it by show control-freak by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 63
+      },
+      {
+        "text": "You choose to demonstrate vision by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 18,
+        "nextId": 63
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "prompt": "You disagree with your group leader but fear sounding disrespectful",
+    "choices": [
+      {
+        "text": "You take action by demonstrate creativity by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 64
+      },
+      {
+        "text": "You choose to show secrecy by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 64
+      },
+      {
+        "text": "You respond by show rigidity by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 64
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "prompt": "A peer submits work that affects your group's performance",
+    "choices": [
+      {
+        "text": "You respond by demonstrate creativity by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 65
+      },
+      {
+        "text": "You handle it by show selfishness by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -20,
+        "nextId": 65
+      },
+      {
+        "text": "You opt to demonstrate patience by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 65
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "prompt": "You're tasked with organizing a small community event",
+    "choices": [
+      {
+        "text": "You choose to demonstrate creativity by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 66
+      },
+      {
+        "text": "You respond by show impatience by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -20,
+        "nextId": 66
+      },
+      {
+        "text": "You choose to show secrecy by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 66
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "prompt": "A classmate spreads misinformation about you",
+    "choices": [
+      {
+        "text": "You respond by demonstrate emotional intelligence by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 67
+      },
+      {
+        "text": "You take action by show lack of empathy by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 67
+      },
+      {
+        "text": "You opt to show overconfidence by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 67
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "prompt": "You're given credit for something your teammate did",
+    "choices": [
+      {
+        "text": "You decide to demonstrate creativity by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 22,
+        "nextId": 68
+      },
+      {
+        "text": "You take action by show secrecy by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 68
+      },
+      {
+        "text": "You respond by demonstrate accountability by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Accountability",
+        "color": "green",
+        "influenceChange": 26,
+        "nextId": 68
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "prompt": "You feel your ideas are being ignored in meetings",
+    "choices": [
+      {
+        "text": "You respond by demonstrate adaptability by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 28,
+        "nextId": 69
+      },
+      {
+        "text": "You opt to show unreliability by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -27,
+        "nextId": 69
+      },
+      {
+        "text": "You handle it by demonstrate patience by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 35,
+        "nextId": 69
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "prompt": "A new colleague seems overwhelmed and hesitant to speak up",
+    "choices": [
+      {
+        "text": "You decide to demonstrate transparency by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 15,
+        "nextId": 70
+      },
+      {
+        "text": "You respond by show arrogance by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 70
+      },
+      {
+        "text": "You opt to show manipulativeness by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -20,
+        "nextId": 70
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "prompt": "Someone close to you behaves unethically in a group setting",
+    "choices": [
+      {
+        "text": "You respond by demonstrate emotional intelligence by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 71
+      },
+      {
+        "text": "You handle it by show dismissiveness by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -12,
+        "nextId": 71
+      },
+      {
+        "text": "You take action by show manipulativeness by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 71
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "prompt": "You miss a key deadline that impacts the team",
+    "choices": [
+      {
+        "text": "You opt to demonstrate adaptability by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 26,
+        "nextId": 72
+      },
+      {
+        "text": "You handle it by show manipulativeness by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -18,
+        "nextId": 72
+      },
+      {
+        "text": "You respond by demonstrate gratitude by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 24,
+        "nextId": 72
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "prompt": "You're asked to lead a group with someone you dislike",
+    "choices": [
+      {
+        "text": "You choose to demonstrate collaboration by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 73
+      },
+      {
+        "text": "You decide to show insecurity by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Insecurity",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 73
+      },
+      {
+        "text": "You respond by show secrecy by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 73
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "prompt": "You're late but someone needs your help urgently",
+    "choices": [
+      {
+        "text": "You decide to demonstrate gratitude by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 22,
+        "nextId": 74
+      },
+      {
+        "text": "You choose to show lack of empathy by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 74
+      },
+      {
+        "text": "You choose to show indecisiveness by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 74
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "prompt": "You notice bias during a team discussion",
+    "choices": [
+      {
+        "text": "You choose to demonstrate creativity by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 25,
+        "nextId": 75
+      },
+      {
+        "text": "You opt to show indecisiveness by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Indecisiveness",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 75
+      },
+      {
+        "text": "You handle it by show dishonesty by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -25,
+        "nextId": 75
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "prompt": "You're pressured to stay quiet about an unfair rule",
+    "choices": [
+      {
+        "text": "You take action by demonstrate emotional intelligence by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 10,
+        "nextId": 76
+      },
+      {
+        "text": "You opt to show insecurity by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Insecurity",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 76
+      },
+      {
+        "text": "You opt to show selfishness by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 76
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "prompt": "You're put on the spot to solve a group disagreement",
+    "choices": [
+      {
+        "text": "You opt to demonstrate trustworthiness by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 77
+      },
+      {
+        "text": "You opt to show manipulativeness by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 77
+      },
+      {
+        "text": "You choose to show control-freak by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 77
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "prompt": "You're asked to give honest feedback to a friend",
+    "choices": [
+      {
+        "text": "You decide to demonstrate resilience by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 78
+      },
+      {
+        "text": "You handle it by show manipulativeness by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Manipulativeness",
+        "color": "red",
+        "influenceChange": -14,
+        "nextId": 78
+      },
+      {
+        "text": "You take action by show selfishness by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 78
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "prompt": "Your boss rejects your ideas without reason",
+    "choices": [
+      {
+        "text": "You choose to demonstrate emotional intelligence by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 25,
+        "nextId": 79
+      },
+      {
+        "text": "You opt to show short-sightedness by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 79
+      },
+      {
+        "text": "You take action by show rigidity by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 79
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "prompt": "Your club or team fails a challenge",
+    "choices": [
+      {
+        "text": "You choose to demonstrate listening by addressing the fact that your club or team fails a challenge.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 17,
+        "nextId": 80
+      },
+      {
+        "text": "You take action by show neglect by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 80
+      },
+      {
+        "text": "You take action by show argumentative by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 80
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "prompt": "You notice a teammate being left out of project decisions",
+    "choices": [
+      {
+        "text": "You respond by demonstrate patience by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 81
+      },
+      {
+        "text": "You choose to show rigidity by avoiding the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Rigidity",
+        "color": "red",
+        "influenceChange": -18,
+        "nextId": 81
+      },
+      {
+        "text": "You take action by demonstrate creativity by addressing the fact that you notice a teammate being left out of project decisions.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 81
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "prompt": "You're offered an easy shortcut that would avoid work",
+    "choices": [
+      {
+        "text": "You decide to demonstrate resilience by addressing the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Resilience",
+        "color": "green",
+        "influenceChange": 33,
+        "nextId": 82
+      },
+      {
+        "text": "You handle it by show dismissiveness by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 82
+      },
+      {
+        "text": "You respond by show argumentative by avoiding the fact that you're offered an easy shortcut that would avoid work.",
+        "trait": "Argumentative",
+        "color": "red",
+        "influenceChange": -11,
+        "nextId": 82
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "prompt": "A friend asks for help with a project you're not passionate about",
+    "choices": [
+      {
+        "text": "You take action by demonstrate integrity by addressing the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 16,
+        "nextId": 83
+      },
+      {
+        "text": "You decide to show neglect by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 83
+      },
+      {
+        "text": "You choose to show arrogance by avoiding the fact that a friend asks for help with a project you're not passionate about.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 83
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "prompt": "You disagree with your group leader but fear sounding disrespectful",
+    "choices": [
+      {
+        "text": "You decide to demonstrate transparency by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 18,
+        "nextId": 84
+      },
+      {
+        "text": "You respond by show blame shifting by avoiding the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -17,
+        "nextId": 84
+      },
+      {
+        "text": "You choose to demonstrate listening by addressing the fact that you disagree with your group leader but fear sounding disrespectful.",
+        "trait": "Listening",
+        "color": "green",
+        "influenceChange": 25,
+        "nextId": 84
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "prompt": "A peer submits work that affects your group's performance",
+    "choices": [
+      {
+        "text": "You choose to demonstrate collaboration by addressing the fact that a peer submits work that affects your group's performance.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 85
+      },
+      {
+        "text": "You decide to show micromanagement by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Micromanagement",
+        "color": "red",
+        "influenceChange": -19,
+        "nextId": 85
+      },
+      {
+        "text": "You opt to show short-sightedness by avoiding the fact that a peer submits work that affects your group's performance.",
+        "trait": "Short-sightedness",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 85
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "prompt": "You're tasked with organizing a small community event",
+    "choices": [
+      {
+        "text": "You take action by demonstrate transparency by addressing the fact that you're tasked with organizing a small community event.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 19,
+        "nextId": 86
+      },
+      {
+        "text": "You handle it by show impatience by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Impatience",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 86
+      },
+      {
+        "text": "You respond by show dismissiveness by avoiding the fact that you're tasked with organizing a small community event.",
+        "trait": "Dismissiveness",
+        "color": "red",
+        "influenceChange": -21,
+        "nextId": 86
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "prompt": "A classmate spreads misinformation about you",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate gratitude by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Gratitude",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": 87
+      },
+      {
+        "text": "You choose to show blame shifting by avoiding the fact that a classmate spreads misinformation about you.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 87
+      },
+      {
+        "text": "You choose to demonstrate transparency by addressing the fact that a classmate spreads misinformation about you.",
+        "trait": "Transparency",
+        "color": "green",
+        "influenceChange": 22,
+        "nextId": 87
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "prompt": "You're given credit for something your teammate did",
+    "choices": [
+      {
+        "text": "You respond by demonstrate emotional intelligence by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Emotional Intelligence",
+        "color": "green",
+        "influenceChange": 30,
+        "nextId": 88
+      },
+      {
+        "text": "You respond by show overconfidence by avoiding the fact that you're given credit for something your teammate did.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 88
+      },
+      {
+        "text": "You decide to demonstrate servant leadership by addressing the fact that you're given credit for something your teammate did.",
+        "trait": "Servant Leadership",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 88
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "prompt": "You feel your ideas are being ignored in meetings",
+    "choices": [
+      {
+        "text": "You opt to demonstrate adaptability by addressing the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 27,
+        "nextId": 89
+      },
+      {
+        "text": "You choose to show favoritism by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Favoritism",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 89
+      },
+      {
+        "text": "You respond by show overconfidence by avoiding the fact that you feel your ideas are being ignored in meetings.",
+        "trait": "Overconfidence",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 89
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "prompt": "A new colleague seems overwhelmed and hesitant to speak up",
+    "choices": [
+      {
+        "text": "You respond by demonstrate inspiration by addressing the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Inspiration",
+        "color": "green",
+        "influenceChange": 10,
+        "nextId": 90
+      },
+      {
+        "text": "You decide to show lack of empathy by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Lack of Empathy",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": 90
+      },
+      {
+        "text": "You decide to show selfishness by avoiding the fact that a new colleague seems overwhelmed and hesitant to speak up.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 90
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "prompt": "Someone close to you behaves unethically in a group setting",
+    "choices": [
+      {
+        "text": "You respond by demonstrate vision by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Vision",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 91
+      },
+      {
+        "text": "You respond by show unreliability by avoiding the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -15,
+        "nextId": 91
+      },
+      {
+        "text": "You opt to demonstrate respect by addressing the fact that someone close to you behaves unethically in a group setting.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 17,
+        "nextId": 91
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "prompt": "You miss a key deadline that impacts the team",
+    "choices": [
+      {
+        "text": "You respond by demonstrate confidence by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Confidence",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 92
+      },
+      {
+        "text": "You opt to show dishonesty by avoiding the fact that you miss a key deadline that impacts the team.",
+        "trait": "Dishonesty",
+        "color": "red",
+        "influenceChange": -26,
+        "nextId": 92
+      },
+      {
+        "text": "You handle it by demonstrate collaboration by addressing the fact that you miss a key deadline that impacts the team.",
+        "trait": "Collaboration",
+        "color": "green",
+        "influenceChange": 34,
+        "nextId": 92
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "prompt": "You're asked to lead a group with someone you dislike",
+    "choices": [
+      {
+        "text": "You choose to demonstrate adaptability by addressing the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 31,
+        "nextId": 93
+      },
+      {
+        "text": "You opt to show unreliability by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Unreliability",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 93
+      },
+      {
+        "text": "You respond by show selfishness by avoiding the fact that you're asked to lead a group with someone you dislike.",
+        "trait": "Selfishness",
+        "color": "red",
+        "influenceChange": -12,
+        "nextId": 93
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "prompt": "You're late but someone needs your help urgently",
+    "choices": [
+      {
+        "text": "You handle it by demonstrate creativity by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Creativity",
+        "color": "green",
+        "influenceChange": 18,
+        "nextId": 94
+      },
+      {
+        "text": "You respond by show control-freak by avoiding the fact that you're late but someone needs your help urgently.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -16,
+        "nextId": 94
+      },
+      {
+        "text": "You opt to demonstrate humility by addressing the fact that you're late but someone needs your help urgently.",
+        "trait": "Humility",
+        "color": "green",
+        "influenceChange": 27,
+        "nextId": 94
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "prompt": "You notice bias during a team discussion",
+    "choices": [
+      {
+        "text": "You respond by demonstrate adaptability by addressing the fact that you notice bias during a team discussion.",
+        "trait": "Adaptability",
+        "color": "green",
+        "influenceChange": 31,
+        "nextId": 95
+      },
+      {
+        "text": "You opt to show neglect by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Neglect",
+        "color": "red",
+        "influenceChange": -13,
+        "nextId": 95
+      },
+      {
+        "text": "You decide to show arrogance by avoiding the fact that you notice bias during a team discussion.",
+        "trait": "Arrogance",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 95
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "prompt": "You're pressured to stay quiet about an unfair rule",
+    "choices": [
+      {
+        "text": "You choose to demonstrate servant leadership by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Servant Leadership",
+        "color": "green",
+        "influenceChange": 12,
+        "nextId": 96
+      },
+      {
+        "text": "You take action by show control-freak by avoiding the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -28,
+        "nextId": 96
+      },
+      {
+        "text": "You handle it by demonstrate integrity by addressing the fact that you're pressured to stay quiet about an unfair rule.",
+        "trait": "Integrity",
+        "color": "green",
+        "influenceChange": 22,
+        "nextId": 96
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "prompt": "You're put on the spot to solve a group disagreement",
+    "choices": [
+      {
+        "text": "You choose to demonstrate servant leadership by addressing the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Servant Leadership",
+        "color": "green",
+        "influenceChange": 13,
+        "nextId": 97
+      },
+      {
+        "text": "You handle it by show micromanagement by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Micromanagement",
+        "color": "red",
+        "influenceChange": -24,
+        "nextId": 97
+      },
+      {
+        "text": "You decide to show blame shifting by avoiding the fact that you're put on the spot to solve a group disagreement.",
+        "trait": "Blame Shifting",
+        "color": "red",
+        "influenceChange": -22,
+        "nextId": 97
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "prompt": "You're asked to give honest feedback to a friend",
+    "choices": [
+      {
+        "text": "You choose to demonstrate respect by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Respect",
+        "color": "green",
+        "influenceChange": 11,
+        "nextId": 98
+      },
+      {
+        "text": "You choose to show secrecy by avoiding the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Secrecy",
+        "color": "red",
+        "influenceChange": -23,
+        "nextId": 98
+      },
+      {
+        "text": "You opt to demonstrate patience by addressing the fact that you're asked to give honest feedback to a friend.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 20,
+        "nextId": 98
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "prompt": "Your boss rejects your ideas without reason",
+    "choices": [
+      {
+        "text": "You decide to demonstrate patience by addressing the fact that your boss rejects your ideas without reason.",
+        "trait": "Patience",
+        "color": "green",
+        "influenceChange": 29,
+        "nextId": 99
+      },
+      {
+        "text": "You decide to show favoritism by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Favoritism",
+        "color": "red",
+        "influenceChange": -10,
+        "nextId": 99
+      },
+      {
+        "text": "You handle it by show control-freak by avoiding the fact that your boss rejects your ideas without reason.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -30,
+        "nextId": 99
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "prompt": "Your club or team fails a challenge",
+    "choices": [
+      {
+        "text": "You decide to demonstrate trustworthiness by addressing the fact that your club or team fails a challenge.",
+        "trait": "Trustworthiness",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": -1
+      },
+      {
+        "text": "You decide to show control-freak by avoiding the fact that your club or team fails a challenge.",
+        "trait": "Control-freak",
+        "color": "red",
+        "influenceChange": -29,
+        "nextId": -1
+      },
+      {
+        "text": "You take action by demonstrate servant leadership by addressing the fact that your club or team fails a challenge.",
+        "trait": "Servant Leadership",
+        "color": "green",
+        "influenceChange": 23,
+        "nextId": -1
+      }
+    ]
+  }
+]
