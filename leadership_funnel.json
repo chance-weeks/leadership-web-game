@@ -1,0 +1,2702 @@
+[
+    {
+        "id": 0,
+        "prompt": "You notice a new coworker being excluded during group tasks. [Scenario 1]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 34,
+                "color": "green",
+                "nextId": 1
+            },
+            {
+                "text": "Show indecisiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Indecisiveness",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 1
+            },
+            {
+                "text": "Choose a path that reflects empathy, even if it\u2019s not popular.",
+                "trait": "Empathy",
+                "influenceChange": 15,
+                "color": "green",
+                "nextId": 1
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "prompt": "A friend asks for help with a project you're not passionate about. [Scenario 2]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 39,
+                "color": "green",
+                "nextId": 2
+            },
+            {
+                "text": "Show control-freak by ignoring the issue and focusing on yourself.",
+                "trait": "Control-freak",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 2
+            },
+            {
+                "text": "Choose a path that reflects manipulativeness, even if it\u2019s not popular.",
+                "trait": "Manipulativeness",
+                "influenceChange": -8,
+                "color": "red",
+                "nextId": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "prompt": "You\u2019re running late and someone asks for your help. [Scenario 3]",
+        "choices": [
+            {
+                "text": "Demonstrate patience by offering support despite your own stress.",
+                "trait": "Patience",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 3
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 3
+            },
+            {
+                "text": "Choose a path that reflects accountability, even if it\u2019s not popular.",
+                "trait": "Accountability",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "prompt": "You disagree with someone in a meeting but they\u2019re your boss. [Scenario 4]",
+        "choices": [
+            {
+                "text": "Demonstrate vision by offering support despite your own stress.",
+                "trait": "Vision",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 4
+            },
+            {
+                "text": "Show control-freak by ignoring the issue and focusing on yourself.",
+                "trait": "Control-freak",
+                "influenceChange": -28,
+                "color": "red",
+                "nextId": 4
+            },
+            {
+                "text": "Choose a path that reflects indecisiveness, even if it\u2019s not popular.",
+                "trait": "Indecisiveness",
+                "influenceChange": -11,
+                "color": "red",
+                "nextId": 4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "prompt": "You're organizing a group outing and not everyone agrees on the plan. [Scenario 5]",
+        "choices": [
+            {
+                "text": "Demonstrate patience by offering support despite your own stress.",
+                "trait": "Patience",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 5
+            },
+            {
+                "text": "Show insecurity by ignoring the issue and focusing on yourself.",
+                "trait": "Insecurity",
+                "influenceChange": -12,
+                "color": "red",
+                "nextId": 5
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 5
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "prompt": "Someone takes credit for your idea in class or work. [Scenario 6]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 6
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 6
+            },
+            {
+                "text": "Choose a path that reflects decisiveness, even if it\u2019s not popular.",
+                "trait": "Decisiveness",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "prompt": "You overhear someone being spoken to harshly and unfairly. [Scenario 7]",
+        "choices": [
+            {
+                "text": "Demonstrate trustworthiness by offering support despite your own stress.",
+                "trait": "Trustworthiness",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 7
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 7
+            },
+            {
+                "text": "Choose a path that reflects decisiveness, even if it\u2019s not popular.",
+                "trait": "Decisiveness",
+                "influenceChange": 19,
+                "color": "green",
+                "nextId": 7
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "prompt": "You're under pressure and someone makes a mistake that affects you. [Scenario 8]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 37,
+                "color": "green",
+                "nextId": 8
+            },
+            {
+                "text": "Show insecurity by ignoring the issue and focusing on yourself.",
+                "trait": "Insecurity",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 8
+            },
+            {
+                "text": "Choose a path that reflects unreliability, even if it\u2019s not popular.",
+                "trait": "Unreliability",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 8
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "prompt": "You\u2019re asked to give feedback to a peer. [Scenario 9]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 32,
+                "color": "green",
+                "nextId": 9
+            },
+            {
+                "text": "Show rigidity by ignoring the issue and focusing on yourself.",
+                "trait": "Rigidity",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 9
+            },
+            {
+                "text": "Choose a path that reflects favoritism, even if it\u2019s not popular.",
+                "trait": "Favoritism",
+                "influenceChange": -9,
+                "color": "red",
+                "nextId": 9
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "prompt": "Your team missed a goal and people are upset. [Scenario 10]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 10
+            },
+            {
+                "text": "Show blame shifting by ignoring the issue and focusing on yourself.",
+                "trait": "Blame Shifting",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 10
+            },
+            {
+                "text": "Choose a path that reflects overconfidence, even if it\u2019s not popular.",
+                "trait": "Overconfidence",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 10
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "prompt": "You have to choose between helping someone or taking a break. [Scenario 11]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 24,
+                "color": "green",
+                "nextId": 11
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -11,
+                "color": "red",
+                "nextId": 11
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 11
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "prompt": "A peer consistently shows up late, frustrating the group. [Scenario 12]",
+        "choices": [
+            {
+                "text": "Demonstrate inspiration by offering support despite your own stress.",
+                "trait": "Inspiration",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 12
+            },
+            {
+                "text": "Show neglect by ignoring the issue and focusing on yourself.",
+                "trait": "Neglect",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 12
+            },
+            {
+                "text": "Choose a path that reflects impatience, even if it\u2019s not popular.",
+                "trait": "Impatience",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 12
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "prompt": "You forgot to do something you promised. [Scenario 13]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 31,
+                "color": "green",
+                "nextId": 13
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 13
+            },
+            {
+                "text": "Choose a path that reflects blame shifting, even if it\u2019s not popular.",
+                "trait": "Blame Shifting",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 13
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "prompt": "You\u2019re assigned to lead a last-minute group presentation. [Scenario 14]",
+        "choices": [
+            {
+                "text": "Demonstrate resilience by offering support despite your own stress.",
+                "trait": "Resilience",
+                "influenceChange": 32,
+                "color": "green",
+                "nextId": 14
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -11,
+                "color": "red",
+                "nextId": 14
+            },
+            {
+                "text": "Choose a path that reflects trustworthiness, even if it\u2019s not popular.",
+                "trait": "Trustworthiness",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 14
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "prompt": "You\u2019re in a group where one person isn\u2019t participating. [Scenario 15]",
+        "choices": [
+            {
+                "text": "Demonstrate adaptability by offering support despite your own stress.",
+                "trait": "Adaptability",
+                "influenceChange": 35,
+                "color": "green",
+                "nextId": 15
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 15
+            },
+            {
+                "text": "Choose a path that reflects empathy, even if it\u2019s not popular.",
+                "trait": "Empathy",
+                "influenceChange": 5,
+                "color": "green",
+                "nextId": 15
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "prompt": "You\u2019re asked to represent your team for a recognition award. [Scenario 16]",
+        "choices": [
+            {
+                "text": "Demonstrate inspiration by offering support despite your own stress.",
+                "trait": "Inspiration",
+                "influenceChange": 18,
+                "color": "green",
+                "nextId": 16
+            },
+            {
+                "text": "Show rigidity by ignoring the issue and focusing on yourself.",
+                "trait": "Rigidity",
+                "influenceChange": -13,
+                "color": "red",
+                "nextId": 16
+            },
+            {
+                "text": "Choose a path that reflects impatience, even if it\u2019s not popular.",
+                "trait": "Impatience",
+                "influenceChange": -19,
+                "color": "red",
+                "nextId": 16
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "prompt": "Your friend is making poor decisions and you feel responsible. [Scenario 17]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 27,
+                "color": "green",
+                "nextId": 17
+            },
+            {
+                "text": "Show short-sightedness by ignoring the issue and focusing on yourself.",
+                "trait": "Short-sightedness",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 17
+            },
+            {
+                "text": "Choose a path that reflects arrogance, even if it\u2019s not popular.",
+                "trait": "Arrogance",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 17
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "prompt": "Someone criticizes you publicly for a group\u2019s failure. [Scenario 18]",
+        "choices": [
+            {
+                "text": "Demonstrate decisiveness by offering support despite your own stress.",
+                "trait": "Decisiveness",
+                "influenceChange": 18,
+                "color": "green",
+                "nextId": 18
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 18
+            },
+            {
+                "text": "Choose a path that reflects decisiveness, even if it\u2019s not popular.",
+                "trait": "Decisiveness",
+                "influenceChange": 15,
+                "color": "green",
+                "nextId": 18
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "prompt": "You\u2019re tempted to exaggerate your contributions to look good. [Scenario 19]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 15,
+                "color": "green",
+                "nextId": 19
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 19
+            },
+            {
+                "text": "Choose a path that reflects humility, even if it\u2019s not popular.",
+                "trait": "Humility",
+                "influenceChange": 24,
+                "color": "green",
+                "nextId": 19
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "prompt": "You see someone cheating and no one else notices. [Scenario 20]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 13,
+                "color": "green",
+                "nextId": 20
+            },
+            {
+                "text": "Show lack of empathy by ignoring the issue and focusing on yourself.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -11,
+                "color": "red",
+                "nextId": 20
+            },
+            {
+                "text": "Choose a path that reflects decisiveness, even if it\u2019s not popular.",
+                "trait": "Decisiveness",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 20
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "prompt": "You notice a new coworker being excluded during group tasks. [Scenario 21]",
+        "choices": [
+            {
+                "text": "Demonstrate respect by offering support despite your own stress.",
+                "trait": "Respect",
+                "influenceChange": 23,
+                "color": "green",
+                "nextId": 21
+            },
+            {
+                "text": "Show indecisiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Indecisiveness",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 21
+            },
+            {
+                "text": "Choose a path that reflects rigidity, even if it\u2019s not popular.",
+                "trait": "Rigidity",
+                "influenceChange": -12,
+                "color": "red",
+                "nextId": 21
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "prompt": "A friend asks for help with a project you're not passionate about. [Scenario 22]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 33,
+                "color": "green",
+                "nextId": 22
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 22
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 22
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "prompt": "You\u2019re running late and someone asks for your help. [Scenario 23]",
+        "choices": [
+            {
+                "text": "Demonstrate vision by offering support despite your own stress.",
+                "trait": "Vision",
+                "influenceChange": 29,
+                "color": "green",
+                "nextId": 23
+            },
+            {
+                "text": "Show rigidity by ignoring the issue and focusing on yourself.",
+                "trait": "Rigidity",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 23
+            },
+            {
+                "text": "Choose a path that reflects rigidity, even if it\u2019s not popular.",
+                "trait": "Rigidity",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 23
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "prompt": "You disagree with someone in a meeting but they\u2019re your boss. [Scenario 24]",
+        "choices": [
+            {
+                "text": "Demonstrate resilience by offering support despite your own stress.",
+                "trait": "Resilience",
+                "influenceChange": 32,
+                "color": "green",
+                "nextId": 24
+            },
+            {
+                "text": "Show blame shifting by ignoring the issue and focusing on yourself.",
+                "trait": "Blame Shifting",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 24
+            },
+            {
+                "text": "Choose a path that reflects creativity, even if it\u2019s not popular.",
+                "trait": "Creativity",
+                "influenceChange": 9,
+                "color": "green",
+                "nextId": 24
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "prompt": "You're organizing a group outing and not everyone agrees on the plan. [Scenario 25]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 25
+            },
+            {
+                "text": "Show blame shifting by ignoring the issue and focusing on yourself.",
+                "trait": "Blame Shifting",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 25
+            },
+            {
+                "text": "Choose a path that reflects humility, even if it\u2019s not popular.",
+                "trait": "Humility",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 25
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "prompt": "Someone takes credit for your idea in class or work. [Scenario 26]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 35,
+                "color": "green",
+                "nextId": 26
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 26
+            },
+            {
+                "text": "Choose a path that reflects favoritism, even if it\u2019s not popular.",
+                "trait": "Favoritism",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 26
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "prompt": "You overhear someone being spoken to harshly and unfairly. [Scenario 27]",
+        "choices": [
+            {
+                "text": "Demonstrate gratitude by offering support despite your own stress.",
+                "trait": "Gratitude",
+                "influenceChange": 40,
+                "color": "green",
+                "nextId": 27
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 27
+            },
+            {
+                "text": "Choose a path that reflects control-freak, even if it\u2019s not popular.",
+                "trait": "Control-freak",
+                "influenceChange": -6,
+                "color": "red",
+                "nextId": 27
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "prompt": "You're under pressure and someone makes a mistake that affects you. [Scenario 28]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 31,
+                "color": "green",
+                "nextId": 28
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 28
+            },
+            {
+                "text": "Choose a path that reflects overconfidence, even if it\u2019s not popular.",
+                "trait": "Overconfidence",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 28
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "prompt": "You\u2019re asked to give feedback to a peer. [Scenario 29]",
+        "choices": [
+            {
+                "text": "Demonstrate decisiveness by offering support despite your own stress.",
+                "trait": "Decisiveness",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 29
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -28,
+                "color": "red",
+                "nextId": 29
+            },
+            {
+                "text": "Choose a path that reflects inspiration, even if it\u2019s not popular.",
+                "trait": "Inspiration",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 29
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "prompt": "Your team missed a goal and people are upset. [Scenario 30]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 30
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 30
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 30
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "prompt": "You have to choose between helping someone or taking a break. [Scenario 31]",
+        "choices": [
+            {
+                "text": "Demonstrate respect by offering support despite your own stress.",
+                "trait": "Respect",
+                "influenceChange": 40,
+                "color": "green",
+                "nextId": 31
+            },
+            {
+                "text": "Show blame shifting by ignoring the issue and focusing on yourself.",
+                "trait": "Blame Shifting",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 31
+            },
+            {
+                "text": "Choose a path that reflects respect, even if it\u2019s not popular.",
+                "trait": "Respect",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 31
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "prompt": "A peer consistently shows up late, frustrating the group. [Scenario 32]",
+        "choices": [
+            {
+                "text": "Demonstrate trustworthiness by offering support despite your own stress.",
+                "trait": "Trustworthiness",
+                "influenceChange": 13,
+                "color": "green",
+                "nextId": 32
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 32
+            },
+            {
+                "text": "Choose a path that reflects secrecy, even if it\u2019s not popular.",
+                "trait": "Secrecy",
+                "influenceChange": -20,
+                "color": "red",
+                "nextId": 32
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "prompt": "You forgot to do something you promised. [Scenario 33]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 12,
+                "color": "green",
+                "nextId": 33
+            },
+            {
+                "text": "Show impatience by ignoring the issue and focusing on yourself.",
+                "trait": "Impatience",
+                "influenceChange": -13,
+                "color": "red",
+                "nextId": 33
+            },
+            {
+                "text": "Choose a path that reflects integrity, even if it\u2019s not popular.",
+                "trait": "Integrity",
+                "influenceChange": 24,
+                "color": "green",
+                "nextId": 33
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "prompt": "You\u2019re assigned to lead a last-minute group presentation. [Scenario 34]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 12,
+                "color": "green",
+                "nextId": 34
+            },
+            {
+                "text": "Show short-sightedness by ignoring the issue and focusing on yourself.",
+                "trait": "Short-sightedness",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 34
+            },
+            {
+                "text": "Choose a path that reflects gratitude, even if it\u2019s not popular.",
+                "trait": "Gratitude",
+                "influenceChange": 10,
+                "color": "green",
+                "nextId": 34
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "prompt": "You\u2019re in a group where one person isn\u2019t participating. [Scenario 35]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 35
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 35
+            },
+            {
+                "text": "Choose a path that reflects favoritism, even if it\u2019s not popular.",
+                "trait": "Favoritism",
+                "influenceChange": -12,
+                "color": "red",
+                "nextId": 35
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "prompt": "You\u2019re asked to represent your team for a recognition award. [Scenario 36]",
+        "choices": [
+            {
+                "text": "Demonstrate adaptability by offering support despite your own stress.",
+                "trait": "Adaptability",
+                "influenceChange": 33,
+                "color": "green",
+                "nextId": 36
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 36
+            },
+            {
+                "text": "Choose a path that reflects gratitude, even if it\u2019s not popular.",
+                "trait": "Gratitude",
+                "influenceChange": 9,
+                "color": "green",
+                "nextId": 36
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "prompt": "Your friend is making poor decisions and you feel responsible. [Scenario 37]",
+        "choices": [
+            {
+                "text": "Demonstrate respect by offering support despite your own stress.",
+                "trait": "Respect",
+                "influenceChange": 26,
+                "color": "green",
+                "nextId": 37
+            },
+            {
+                "text": "Show lack of empathy by ignoring the issue and focusing on yourself.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -28,
+                "color": "red",
+                "nextId": 37
+            },
+            {
+                "text": "Choose a path that reflects trustworthiness, even if it\u2019s not popular.",
+                "trait": "Trustworthiness",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 37
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "prompt": "Someone criticizes you publicly for a group\u2019s failure. [Scenario 38]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 38
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 38
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 19,
+                "color": "green",
+                "nextId": 38
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "prompt": "You\u2019re tempted to exaggerate your contributions to look good. [Scenario 39]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 39
+            },
+            {
+                "text": "Show manipulativeness by ignoring the issue and focusing on yourself.",
+                "trait": "Manipulativeness",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 39
+            },
+            {
+                "text": "Choose a path that reflects servant leadership, even if it\u2019s not popular.",
+                "trait": "Servant Leadership",
+                "influenceChange": 8,
+                "color": "green",
+                "nextId": 39
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "prompt": "You see someone cheating and no one else notices. [Scenario 40]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 40
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 40
+            },
+            {
+                "text": "Choose a path that reflects selfishness, even if it\u2019s not popular.",
+                "trait": "Selfishness",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 40
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "prompt": "You notice a new coworker being excluded during group tasks. [Scenario 41]",
+        "choices": [
+            {
+                "text": "Demonstrate humility by offering support despite your own stress.",
+                "trait": "Humility",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 41
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 41
+            },
+            {
+                "text": "Choose a path that reflects resilience, even if it\u2019s not popular.",
+                "trait": "Resilience",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 41
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "prompt": "A friend asks for help with a project you're not passionate about. [Scenario 42]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 23,
+                "color": "green",
+                "nextId": 42
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 42
+            },
+            {
+                "text": "Choose a path that reflects creativity, even if it\u2019s not popular.",
+                "trait": "Creativity",
+                "influenceChange": 8,
+                "color": "green",
+                "nextId": 42
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "prompt": "You\u2019re running late and someone asks for your help. [Scenario 43]",
+        "choices": [
+            {
+                "text": "Demonstrate decisiveness by offering support despite your own stress.",
+                "trait": "Decisiveness",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 43
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 43
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 6,
+                "color": "green",
+                "nextId": 43
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "prompt": "You disagree with someone in a meeting but they\u2019re your boss. [Scenario 44]",
+        "choices": [
+            {
+                "text": "Demonstrate vision by offering support despite your own stress.",
+                "trait": "Vision",
+                "influenceChange": 11,
+                "color": "green",
+                "nextId": 44
+            },
+            {
+                "text": "Show manipulativeness by ignoring the issue and focusing on yourself.",
+                "trait": "Manipulativeness",
+                "influenceChange": -27,
+                "color": "red",
+                "nextId": 44
+            },
+            {
+                "text": "Choose a path that reflects empathy, even if it\u2019s not popular.",
+                "trait": "Empathy",
+                "influenceChange": 23,
+                "color": "green",
+                "nextId": 44
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "prompt": "You're organizing a group outing and not everyone agrees on the plan. [Scenario 45]",
+        "choices": [
+            {
+                "text": "Demonstrate adaptability by offering support despite your own stress.",
+                "trait": "Adaptability",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 45
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 45
+            },
+            {
+                "text": "Choose a path that reflects secrecy, even if it\u2019s not popular.",
+                "trait": "Secrecy",
+                "influenceChange": -19,
+                "color": "red",
+                "nextId": 45
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "prompt": "Someone takes credit for your idea in class or work. [Scenario 46]",
+        "choices": [
+            {
+                "text": "Demonstrate trustworthiness by offering support despite your own stress.",
+                "trait": "Trustworthiness",
+                "influenceChange": 31,
+                "color": "green",
+                "nextId": 46
+            },
+            {
+                "text": "Show indecisiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Indecisiveness",
+                "influenceChange": -27,
+                "color": "red",
+                "nextId": 46
+            },
+            {
+                "text": "Choose a path that reflects blame shifting, even if it\u2019s not popular.",
+                "trait": "Blame Shifting",
+                "influenceChange": -7,
+                "color": "red",
+                "nextId": 46
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "prompt": "You overhear someone being spoken to harshly and unfairly. [Scenario 47]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 29,
+                "color": "green",
+                "nextId": 47
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 47
+            },
+            {
+                "text": "Choose a path that reflects listening, even if it\u2019s not popular.",
+                "trait": "Listening",
+                "influenceChange": 24,
+                "color": "green",
+                "nextId": 47
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "prompt": "You're under pressure and someone makes a mistake that affects you. [Scenario 48]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 12,
+                "color": "green",
+                "nextId": 48
+            },
+            {
+                "text": "Show control-freak by ignoring the issue and focusing on yourself.",
+                "trait": "Control-freak",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 48
+            },
+            {
+                "text": "Choose a path that reflects manipulativeness, even if it\u2019s not popular.",
+                "trait": "Manipulativeness",
+                "influenceChange": -20,
+                "color": "red",
+                "nextId": 48
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "prompt": "You\u2019re asked to give feedback to a peer. [Scenario 49]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 14,
+                "color": "green",
+                "nextId": 49
+            },
+            {
+                "text": "Show dismissiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Dismissiveness",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 49
+            },
+            {
+                "text": "Choose a path that reflects creativity, even if it\u2019s not popular.",
+                "trait": "Creativity",
+                "influenceChange": 18,
+                "color": "green",
+                "nextId": 49
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "prompt": "Your team missed a goal and people are upset. [Scenario 50]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 50
+            },
+            {
+                "text": "Show manipulativeness by ignoring the issue and focusing on yourself.",
+                "trait": "Manipulativeness",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 50
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -19,
+                "color": "red",
+                "nextId": 50
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "prompt": "You have to choose between helping someone or taking a break. [Scenario 51]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 40,
+                "color": "green",
+                "nextId": 51
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 51
+            },
+            {
+                "text": "Choose a path that reflects adaptability, even if it\u2019s not popular.",
+                "trait": "Adaptability",
+                "influenceChange": 7,
+                "color": "green",
+                "nextId": 51
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "prompt": "A peer consistently shows up late, frustrating the group. [Scenario 52]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 13,
+                "color": "green",
+                "nextId": 52
+            },
+            {
+                "text": "Show neglect by ignoring the issue and focusing on yourself.",
+                "trait": "Neglect",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 52
+            },
+            {
+                "text": "Choose a path that reflects dishonesty, even if it\u2019s not popular.",
+                "trait": "Dishonesty",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 52
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "prompt": "You forgot to do something you promised. [Scenario 53]",
+        "choices": [
+            {
+                "text": "Demonstrate transparency by offering support despite your own stress.",
+                "trait": "Transparency",
+                "influenceChange": 13,
+                "color": "green",
+                "nextId": 53
+            },
+            {
+                "text": "Show short-sightedness by ignoring the issue and focusing on yourself.",
+                "trait": "Short-sightedness",
+                "influenceChange": -20,
+                "color": "red",
+                "nextId": 53
+            },
+            {
+                "text": "Choose a path that reflects selfishness, even if it\u2019s not popular.",
+                "trait": "Selfishness",
+                "influenceChange": -7,
+                "color": "red",
+                "nextId": 53
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "prompt": "You\u2019re assigned to lead a last-minute group presentation. [Scenario 54]",
+        "choices": [
+            {
+                "text": "Demonstrate accountability by offering support despite your own stress.",
+                "trait": "Accountability",
+                "influenceChange": 33,
+                "color": "green",
+                "nextId": 54
+            },
+            {
+                "text": "Show lack of empathy by ignoring the issue and focusing on yourself.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 54
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 54
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "prompt": "You\u2019re in a group where one person isn\u2019t participating. [Scenario 55]",
+        "choices": [
+            {
+                "text": "Demonstrate decisiveness by offering support despite your own stress.",
+                "trait": "Decisiveness",
+                "influenceChange": 29,
+                "color": "green",
+                "nextId": 55
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 55
+            },
+            {
+                "text": "Choose a path that reflects humility, even if it\u2019s not popular.",
+                "trait": "Humility",
+                "influenceChange": 10,
+                "color": "green",
+                "nextId": 55
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "prompt": "You\u2019re asked to represent your team for a recognition award. [Scenario 56]",
+        "choices": [
+            {
+                "text": "Demonstrate inspiration by offering support despite your own stress.",
+                "trait": "Inspiration",
+                "influenceChange": 27,
+                "color": "green",
+                "nextId": 56
+            },
+            {
+                "text": "Show insecurity by ignoring the issue and focusing on yourself.",
+                "trait": "Insecurity",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 56
+            },
+            {
+                "text": "Choose a path that reflects neglect, even if it\u2019s not popular.",
+                "trait": "Neglect",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 56
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "prompt": "Your friend is making poor decisions and you feel responsible. [Scenario 57]",
+        "choices": [
+            {
+                "text": "Demonstrate patience by offering support despite your own stress.",
+                "trait": "Patience",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 57
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -20,
+                "color": "red",
+                "nextId": 57
+            },
+            {
+                "text": "Choose a path that reflects integrity, even if it\u2019s not popular.",
+                "trait": "Integrity",
+                "influenceChange": 15,
+                "color": "green",
+                "nextId": 57
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "prompt": "Someone criticizes you publicly for a group\u2019s failure. [Scenario 58]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 13,
+                "color": "green",
+                "nextId": 58
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 58
+            },
+            {
+                "text": "Choose a path that reflects decisiveness, even if it\u2019s not popular.",
+                "trait": "Decisiveness",
+                "influenceChange": 6,
+                "color": "green",
+                "nextId": 58
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "prompt": "You\u2019re tempted to exaggerate your contributions to look good. [Scenario 59]",
+        "choices": [
+            {
+                "text": "Demonstrate decisiveness by offering support despite your own stress.",
+                "trait": "Decisiveness",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 59
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -13,
+                "color": "red",
+                "nextId": 59
+            },
+            {
+                "text": "Choose a path that reflects dishonesty, even if it\u2019s not popular.",
+                "trait": "Dishonesty",
+                "influenceChange": -6,
+                "color": "red",
+                "nextId": 59
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "prompt": "You see someone cheating and no one else notices. [Scenario 60]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 10,
+                "color": "green",
+                "nextId": 60
+            },
+            {
+                "text": "Show neglect by ignoring the issue and focusing on yourself.",
+                "trait": "Neglect",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 60
+            },
+            {
+                "text": "Choose a path that reflects integrity, even if it\u2019s not popular.",
+                "trait": "Integrity",
+                "influenceChange": 8,
+                "color": "green",
+                "nextId": 60
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "prompt": "You notice a new coworker being excluded during group tasks. [Scenario 61]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 61
+            },
+            {
+                "text": "Show control-freak by ignoring the issue and focusing on yourself.",
+                "trait": "Control-freak",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 61
+            },
+            {
+                "text": "Choose a path that reflects lack of empathy, even if it\u2019s not popular.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 61
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "prompt": "A friend asks for help with a project you're not passionate about. [Scenario 62]",
+        "choices": [
+            {
+                "text": "Demonstrate emotional intelligence by offering support despite your own stress.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 62
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 62
+            },
+            {
+                "text": "Choose a path that reflects humility, even if it\u2019s not popular.",
+                "trait": "Humility",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 62
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "prompt": "You\u2019re running late and someone asks for your help. [Scenario 63]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 23,
+                "color": "green",
+                "nextId": 63
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 63
+            },
+            {
+                "text": "Choose a path that reflects control-freak, even if it\u2019s not popular.",
+                "trait": "Control-freak",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 63
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "prompt": "You disagree with someone in a meeting but they\u2019re your boss. [Scenario 64]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 64
+            },
+            {
+                "text": "Show neglect by ignoring the issue and focusing on yourself.",
+                "trait": "Neglect",
+                "influenceChange": -13,
+                "color": "red",
+                "nextId": 64
+            },
+            {
+                "text": "Choose a path that reflects favoritism, even if it\u2019s not popular.",
+                "trait": "Favoritism",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 64
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "prompt": "You're organizing a group outing and not everyone agrees on the plan. [Scenario 65]",
+        "choices": [
+            {
+                "text": "Demonstrate respect by offering support despite your own stress.",
+                "trait": "Respect",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 65
+            },
+            {
+                "text": "Show rigidity by ignoring the issue and focusing on yourself.",
+                "trait": "Rigidity",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 65
+            },
+            {
+                "text": "Choose a path that reflects vision, even if it\u2019s not popular.",
+                "trait": "Vision",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 65
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "prompt": "Someone takes credit for your idea in class or work. [Scenario 66]",
+        "choices": [
+            {
+                "text": "Demonstrate humility by offering support despite your own stress.",
+                "trait": "Humility",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 66
+            },
+            {
+                "text": "Show indecisiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Indecisiveness",
+                "influenceChange": -13,
+                "color": "red",
+                "nextId": 66
+            },
+            {
+                "text": "Choose a path that reflects confidence, even if it\u2019s not popular.",
+                "trait": "Confidence",
+                "influenceChange": 11,
+                "color": "green",
+                "nextId": 66
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "prompt": "You overhear someone being spoken to harshly and unfairly. [Scenario 67]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 37,
+                "color": "green",
+                "nextId": 67
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 67
+            },
+            {
+                "text": "Choose a path that reflects unreliability, even if it\u2019s not popular.",
+                "trait": "Unreliability",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 67
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "prompt": "You're under pressure and someone makes a mistake that affects you. [Scenario 68]",
+        "choices": [
+            {
+                "text": "Demonstrate gratitude by offering support despite your own stress.",
+                "trait": "Gratitude",
+                "influenceChange": 31,
+                "color": "green",
+                "nextId": 68
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 68
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 68
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "prompt": "You\u2019re asked to give feedback to a peer. [Scenario 69]",
+        "choices": [
+            {
+                "text": "Demonstrate accountability by offering support despite your own stress.",
+                "trait": "Accountability",
+                "influenceChange": 35,
+                "color": "green",
+                "nextId": 69
+            },
+            {
+                "text": "Show lack of empathy by ignoring the issue and focusing on yourself.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -28,
+                "color": "red",
+                "nextId": 69
+            },
+            {
+                "text": "Choose a path that reflects manipulativeness, even if it\u2019s not popular.",
+                "trait": "Manipulativeness",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 69
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "prompt": "Your team missed a goal and people are upset. [Scenario 70]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 34,
+                "color": "green",
+                "nextId": 70
+            },
+            {
+                "text": "Show neglect by ignoring the issue and focusing on yourself.",
+                "trait": "Neglect",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 70
+            },
+            {
+                "text": "Choose a path that reflects dishonesty, even if it\u2019s not popular.",
+                "trait": "Dishonesty",
+                "influenceChange": -8,
+                "color": "red",
+                "nextId": 70
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "prompt": "You have to choose between helping someone or taking a break. [Scenario 71]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 71
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 71
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 71
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "prompt": "A peer consistently shows up late, frustrating the group. [Scenario 72]",
+        "choices": [
+            {
+                "text": "Demonstrate resilience by offering support despite your own stress.",
+                "trait": "Resilience",
+                "influenceChange": 31,
+                "color": "green",
+                "nextId": 72
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -19,
+                "color": "red",
+                "nextId": 72
+            },
+            {
+                "text": "Choose a path that reflects resilience, even if it\u2019s not popular.",
+                "trait": "Resilience",
+                "influenceChange": 14,
+                "color": "green",
+                "nextId": 72
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "prompt": "You forgot to do something you promised. [Scenario 73]",
+        "choices": [
+            {
+                "text": "Demonstrate respect by offering support despite your own stress.",
+                "trait": "Respect",
+                "influenceChange": 30,
+                "color": "green",
+                "nextId": 73
+            },
+            {
+                "text": "Show micromanagement by ignoring the issue and focusing on yourself.",
+                "trait": "Micromanagement",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 73
+            },
+            {
+                "text": "Choose a path that reflects overconfidence, even if it\u2019s not popular.",
+                "trait": "Overconfidence",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 73
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "prompt": "You\u2019re assigned to lead a last-minute group presentation. [Scenario 74]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 35,
+                "color": "green",
+                "nextId": 74
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 74
+            },
+            {
+                "text": "Choose a path that reflects integrity, even if it\u2019s not popular.",
+                "trait": "Integrity",
+                "influenceChange": 19,
+                "color": "green",
+                "nextId": 74
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "prompt": "You\u2019re in a group where one person isn\u2019t participating. [Scenario 75]",
+        "choices": [
+            {
+                "text": "Demonstrate trustworthiness by offering support despite your own stress.",
+                "trait": "Trustworthiness",
+                "influenceChange": 30,
+                "color": "green",
+                "nextId": 75
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 75
+            },
+            {
+                "text": "Choose a path that reflects rigidity, even if it\u2019s not popular.",
+                "trait": "Rigidity",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 75
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "prompt": "You\u2019re asked to represent your team for a recognition award. [Scenario 76]",
+        "choices": [
+            {
+                "text": "Demonstrate accountability by offering support despite your own stress.",
+                "trait": "Accountability",
+                "influenceChange": 12,
+                "color": "green",
+                "nextId": 76
+            },
+            {
+                "text": "Show dismissiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Dismissiveness",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 76
+            },
+            {
+                "text": "Choose a path that reflects gratitude, even if it\u2019s not popular.",
+                "trait": "Gratitude",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 76
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "prompt": "Your friend is making poor decisions and you feel responsible. [Scenario 77]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 38,
+                "color": "green",
+                "nextId": 77
+            },
+            {
+                "text": "Show dismissiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Dismissiveness",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 77
+            },
+            {
+                "text": "Choose a path that reflects argumentative, even if it\u2019s not popular.",
+                "trait": "Argumentative",
+                "influenceChange": -12,
+                "color": "red",
+                "nextId": 77
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "prompt": "Someone criticizes you publicly for a group\u2019s failure. [Scenario 78]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 78
+            },
+            {
+                "text": "Show dismissiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Dismissiveness",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 78
+            },
+            {
+                "text": "Choose a path that reflects insecurity, even if it\u2019s not popular.",
+                "trait": "Insecurity",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 78
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "prompt": "You\u2019re tempted to exaggerate your contributions to look good. [Scenario 79]",
+        "choices": [
+            {
+                "text": "Demonstrate integrity by offering support despite your own stress.",
+                "trait": "Integrity",
+                "influenceChange": 35,
+                "color": "green",
+                "nextId": 79
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 79
+            },
+            {
+                "text": "Choose a path that reflects micromanagement, even if it\u2019s not popular.",
+                "trait": "Micromanagement",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 79
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "prompt": "You see someone cheating and no one else notices. [Scenario 80]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 33,
+                "color": "green",
+                "nextId": 80
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 80
+            },
+            {
+                "text": "Choose a path that reflects impatience, even if it\u2019s not popular.",
+                "trait": "Impatience",
+                "influenceChange": -5,
+                "color": "red",
+                "nextId": 80
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "prompt": "You notice a new coworker being excluded during group tasks. [Scenario 81]",
+        "choices": [
+            {
+                "text": "Demonstrate humility by offering support despite your own stress.",
+                "trait": "Humility",
+                "influenceChange": 27,
+                "color": "green",
+                "nextId": 81
+            },
+            {
+                "text": "Show unreliability by ignoring the issue and focusing on yourself.",
+                "trait": "Unreliability",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 81
+            },
+            {
+                "text": "Choose a path that reflects dismissiveness, even if it\u2019s not popular.",
+                "trait": "Dismissiveness",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 81
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "prompt": "A friend asks for help with a project you're not passionate about. [Scenario 82]",
+        "choices": [
+            {
+                "text": "Demonstrate humility by offering support despite your own stress.",
+                "trait": "Humility",
+                "influenceChange": 32,
+                "color": "green",
+                "nextId": 82
+            },
+            {
+                "text": "Show overconfidence by ignoring the issue and focusing on yourself.",
+                "trait": "Overconfidence",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 82
+            },
+            {
+                "text": "Choose a path that reflects dismissiveness, even if it\u2019s not popular.",
+                "trait": "Dismissiveness",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 82
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "prompt": "You\u2019re running late and someone asks for your help. [Scenario 83]",
+        "choices": [
+            {
+                "text": "Demonstrate trustworthiness by offering support despite your own stress.",
+                "trait": "Trustworthiness",
+                "influenceChange": 37,
+                "color": "green",
+                "nextId": 83
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 83
+            },
+            {
+                "text": "Choose a path that reflects blame shifting, even if it\u2019s not popular.",
+                "trait": "Blame Shifting",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 83
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "prompt": "You disagree with someone in a meeting but they\u2019re your boss. [Scenario 84]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 27,
+                "color": "green",
+                "nextId": 84
+            },
+            {
+                "text": "Show indecisiveness by ignoring the issue and focusing on yourself.",
+                "trait": "Indecisiveness",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 84
+            },
+            {
+                "text": "Choose a path that reflects rigidity, even if it\u2019s not popular.",
+                "trait": "Rigidity",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 84
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "prompt": "You're organizing a group outing and not everyone agrees on the plan. [Scenario 85]",
+        "choices": [
+            {
+                "text": "Demonstrate patience by offering support despite your own stress.",
+                "trait": "Patience",
+                "influenceChange": 40,
+                "color": "green",
+                "nextId": 85
+            },
+            {
+                "text": "Show manipulativeness by ignoring the issue and focusing on yourself.",
+                "trait": "Manipulativeness",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": 85
+            },
+            {
+                "text": "Choose a path that reflects transparency, even if it\u2019s not popular.",
+                "trait": "Transparency",
+                "influenceChange": 25,
+                "color": "green",
+                "nextId": 85
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "prompt": "Someone takes credit for your idea in class or work. [Scenario 86]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 20,
+                "color": "green",
+                "nextId": 86
+            },
+            {
+                "text": "Show lack of empathy by ignoring the issue and focusing on yourself.",
+                "trait": "Lack of Empathy",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 86
+            },
+            {
+                "text": "Choose a path that reflects confidence, even if it\u2019s not popular.",
+                "trait": "Confidence",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 86
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "prompt": "You overhear someone being spoken to harshly and unfairly. [Scenario 87]",
+        "choices": [
+            {
+                "text": "Demonstrate resilience by offering support despite your own stress.",
+                "trait": "Resilience",
+                "influenceChange": 30,
+                "color": "green",
+                "nextId": 87
+            },
+            {
+                "text": "Show dishonesty by ignoring the issue and focusing on yourself.",
+                "trait": "Dishonesty",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 87
+            },
+            {
+                "text": "Choose a path that reflects servant leadership, even if it\u2019s not popular.",
+                "trait": "Servant Leadership",
+                "influenceChange": 8,
+                "color": "green",
+                "nextId": 87
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "prompt": "You're under pressure and someone makes a mistake that affects you. [Scenario 88]",
+        "choices": [
+            {
+                "text": "Demonstrate humility by offering support despite your own stress.",
+                "trait": "Humility",
+                "influenceChange": 39,
+                "color": "green",
+                "nextId": 88
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -16,
+                "color": "red",
+                "nextId": 88
+            },
+            {
+                "text": "Choose a path that reflects emotional intelligence, even if it\u2019s not popular.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 18,
+                "color": "green",
+                "nextId": 88
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "prompt": "You\u2019re asked to give feedback to a peer. [Scenario 89]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 16,
+                "color": "green",
+                "nextId": 89
+            },
+            {
+                "text": "Show secrecy by ignoring the issue and focusing on yourself.",
+                "trait": "Secrecy",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 89
+            },
+            {
+                "text": "Choose a path that reflects emotional intelligence, even if it\u2019s not popular.",
+                "trait": "Emotional Intelligence",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 89
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "prompt": "Your team missed a goal and people are upset. [Scenario 90]",
+        "choices": [
+            {
+                "text": "Demonstrate confidence by offering support despite your own stress.",
+                "trait": "Confidence",
+                "influenceChange": 40,
+                "color": "green",
+                "nextId": 90
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -26,
+                "color": "red",
+                "nextId": 90
+            },
+            {
+                "text": "Choose a path that reflects patience, even if it\u2019s not popular.",
+                "trait": "Patience",
+                "influenceChange": 14,
+                "color": "green",
+                "nextId": 90
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "prompt": "You have to choose between helping someone or taking a break. [Scenario 91]",
+        "choices": [
+            {
+                "text": "Demonstrate adaptability by offering support despite your own stress.",
+                "trait": "Adaptability",
+                "influenceChange": 22,
+                "color": "green",
+                "nextId": 91
+            },
+            {
+                "text": "Show unreliability by ignoring the issue and focusing on yourself.",
+                "trait": "Unreliability",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 91
+            },
+            {
+                "text": "Choose a path that reflects secrecy, even if it\u2019s not popular.",
+                "trait": "Secrecy",
+                "influenceChange": -18,
+                "color": "red",
+                "nextId": 91
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "prompt": "A peer consistently shows up late, frustrating the group. [Scenario 92]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 23,
+                "color": "green",
+                "nextId": 92
+            },
+            {
+                "text": "Show impatience by ignoring the issue and focusing on yourself.",
+                "trait": "Impatience",
+                "influenceChange": -12,
+                "color": "red",
+                "nextId": 92
+            },
+            {
+                "text": "Choose a path that reflects indecisiveness, even if it\u2019s not popular.",
+                "trait": "Indecisiveness",
+                "influenceChange": -9,
+                "color": "red",
+                "nextId": 92
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "prompt": "You forgot to do something you promised. [Scenario 93]",
+        "choices": [
+            {
+                "text": "Demonstrate empathy by offering support despite your own stress.",
+                "trait": "Empathy",
+                "influenceChange": 18,
+                "color": "green",
+                "nextId": 93
+            },
+            {
+                "text": "Show short-sightedness by ignoring the issue and focusing on yourself.",
+                "trait": "Short-sightedness",
+                "influenceChange": -24,
+                "color": "red",
+                "nextId": 93
+            },
+            {
+                "text": "Choose a path that reflects respect, even if it\u2019s not popular.",
+                "trait": "Respect",
+                "influenceChange": 21,
+                "color": "green",
+                "nextId": 93
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "prompt": "You\u2019re assigned to lead a last-minute group presentation. [Scenario 94]",
+        "choices": [
+            {
+                "text": "Demonstrate inspiration by offering support despite your own stress.",
+                "trait": "Inspiration",
+                "influenceChange": 27,
+                "color": "green",
+                "nextId": 94
+            },
+            {
+                "text": "Show arrogance by ignoring the issue and focusing on yourself.",
+                "trait": "Arrogance",
+                "influenceChange": -22,
+                "color": "red",
+                "nextId": 94
+            },
+            {
+                "text": "Choose a path that reflects integrity, even if it\u2019s not popular.",
+                "trait": "Integrity",
+                "influenceChange": 8,
+                "color": "green",
+                "nextId": 94
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "prompt": "You\u2019re in a group where one person isn\u2019t participating. [Scenario 95]",
+        "choices": [
+            {
+                "text": "Demonstrate inspiration by offering support despite your own stress.",
+                "trait": "Inspiration",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 95
+            },
+            {
+                "text": "Show control-freak by ignoring the issue and focusing on yourself.",
+                "trait": "Control-freak",
+                "influenceChange": -25,
+                "color": "red",
+                "nextId": 95
+            },
+            {
+                "text": "Choose a path that reflects micromanagement, even if it\u2019s not popular.",
+                "trait": "Micromanagement",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": 95
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "prompt": "You\u2019re asked to represent your team for a recognition award. [Scenario 96]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 32,
+                "color": "green",
+                "nextId": 96
+            },
+            {
+                "text": "Show impatience by ignoring the issue and focusing on yourself.",
+                "trait": "Impatience",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 96
+            },
+            {
+                "text": "Choose a path that reflects dismissiveness, even if it\u2019s not popular.",
+                "trait": "Dismissiveness",
+                "influenceChange": -17,
+                "color": "red",
+                "nextId": 96
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "prompt": "Your friend is making poor decisions and you feel responsible. [Scenario 97]",
+        "choices": [
+            {
+                "text": "Demonstrate collaboration by offering support despite your own stress.",
+                "trait": "Collaboration",
+                "influenceChange": 36,
+                "color": "green",
+                "nextId": 97
+            },
+            {
+                "text": "Show favoritism by ignoring the issue and focusing on yourself.",
+                "trait": "Favoritism",
+                "influenceChange": -30,
+                "color": "red",
+                "nextId": 97
+            },
+            {
+                "text": "Choose a path that reflects indecisiveness, even if it\u2019s not popular.",
+                "trait": "Indecisiveness",
+                "influenceChange": -14,
+                "color": "red",
+                "nextId": 97
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "prompt": "Someone criticizes you publicly for a group\u2019s failure. [Scenario 98]",
+        "choices": [
+            {
+                "text": "Demonstrate creativity by offering support despite your own stress.",
+                "trait": "Creativity",
+                "influenceChange": 26,
+                "color": "green",
+                "nextId": 98
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -10,
+                "color": "red",
+                "nextId": 98
+            },
+            {
+                "text": "Choose a path that reflects accountability, even if it\u2019s not popular.",
+                "trait": "Accountability",
+                "influenceChange": 17,
+                "color": "green",
+                "nextId": 98
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "prompt": "You\u2019re tempted to exaggerate your contributions to look good. [Scenario 99]",
+        "choices": [
+            {
+                "text": "Demonstrate servant leadership by offering support despite your own stress.",
+                "trait": "Servant Leadership",
+                "influenceChange": 33,
+                "color": "green",
+                "nextId": 99
+            },
+            {
+                "text": "Show argumentative by ignoring the issue and focusing on yourself.",
+                "trait": "Argumentative",
+                "influenceChange": -15,
+                "color": "red",
+                "nextId": 99
+            },
+            {
+                "text": "Choose a path that reflects humility, even if it\u2019s not popular.",
+                "trait": "Humility",
+                "influenceChange": 9,
+                "color": "green",
+                "nextId": 99
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "prompt": "You see someone cheating and no one else notices. [Scenario 100]",
+        "choices": [
+            {
+                "text": "Demonstrate listening by offering support despite your own stress.",
+                "trait": "Listening",
+                "influenceChange": 39,
+                "color": "green",
+                "nextId": -1
+            },
+            {
+                "text": "Show selfishness by ignoring the issue and focusing on yourself.",
+                "trait": "Selfishness",
+                "influenceChange": -23,
+                "color": "red",
+                "nextId": -1
+            },
+            {
+                "text": "Choose a path that reflects short-sightedness, even if it\u2019s not popular.",
+                "trait": "Short-sightedness",
+                "influenceChange": -21,
+                "color": "red",
+                "nextId": -1
+            }
+        ]
+    }
+]
