@@ -1,1 +1,0 @@
-# leadership-web-game
